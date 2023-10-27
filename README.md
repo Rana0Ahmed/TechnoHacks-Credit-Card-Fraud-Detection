@@ -32,7 +32,7 @@ We conduct exploratory data analysis (EDA) to gain insights into the dataset. ED
 ## Feature Engineering
 An part of building an effective fraud detection model. We create new features to improve the model's ability to distinguish between legitimate and fraudulent transactions.
 ## Spliting the data  
-Spliting data using into training and testing Data
+Spliting data using train_test_split into training and testing Data.
 ## Model Building
 In this project, I used two algorithms : 
 - Random Forest
