@@ -11,7 +11,7 @@
 - [Data Preprocessing](https://github.com/Rana0Ahmed/TechnoHacks-Credit-Card-Fraud-Detection#data-preprocessing)
 - [Exploratory Data Analysis](https://github.com/Rana0Ahmed/TechnoHacks-Credit-Card-Fraud-Detection#exploratory-data-analysis)
 - [Feature Engineering](https://github.com/Rana0Ahmed/TechnoHacks-Credit-Card-Fraud-Detection#feature-engineering)
-- [Spliting the data](https://github.com/Rana0Ahmed/TechnoHacks-Credit-Card-Fraud-Detection#spliting-the-data-into-training-and-testing-data)
+- [Spliting the data](https://github.com/Rana0Ahmed/TechnoHacks-Credit-Card-Fraud-Detection#spliting-the-data)
 - [Model Building](https://github.com/Rana0Ahmed/TechnoHacks-Credit-Card-Fraud-Detection#model-building)
 - [Model Evaluation](https://github.com/Rana0Ahmed/TechnoHacks-Credit-Card-Fraud-Detection#model-evaluation)
 - [Hyperparameter tuning](https://github.com/Rana0Ahmed/TechnoHacks-Credit-Card-Fraud-Detection#hyperparameter-tuning)
