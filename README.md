@@ -1,8 +1,8 @@
 # TechnoHacks-Credit-Card-Fraud-Detection
+### Author : [Rana Ahmed](https://www.linkedin.com/in/rana-ahmed-3b2972246/)
 
 <img src="https://www.customerservicemanager.com/wp-content/uploads/2020/05/credtcard.jpg" width="500">
 
-**Author : [Rana Ahmed](https://www.linkedin.com/in/rana-ahmed-3b2972246/)**
 ## Problem Statement
 Fraud Transaction Detection.
 ## Introduction
